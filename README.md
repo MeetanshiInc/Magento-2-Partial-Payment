@@ -8,7 +8,7 @@ budget and stand out in the competition.
 Allow customers to make a purchase by paying a token amount and then pay the remaining
 amount with installment using the Partial Payment extension!
 
-**Feature of Partial Payment for Magento 2 extension:**
+**Features of Partial Payment for Magento 2 extension:**
 * Offer products with the partial payment, layaway plans or EMIs.
 * Let customers pay down payment at the time of the order and remaining amount later in an
 installment.
