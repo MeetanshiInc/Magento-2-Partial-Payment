@@ -1,4 +1,4 @@
-# Magento-2-Partial-Payment
+# Magento 2 Partial Payment
 
 Do you want to implement a payment option which can be helpful in business competition
 and is also budget friendly for customers? The [***Magento 2 Partial Payment***](https://meetanshi.com/magento-2-partial-payment.html) allows customers
